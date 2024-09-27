@@ -1,6 +1,6 @@
 
 
-## CRM Application for EduConsultPro
+# CRM Application for EduConsultPro
 
 This repository contains the implementation of a CRM Application to manage services provided by educational consulting institutions. Built on Salesforce, this solution helps streamline various processes including student management, course registration, consultant appointments, and case handling.
 
