@@ -21,4 +21,4 @@ Key Areas of Focus:
 
     The CRM also facilitates expert consulting services, allowing EduConsultPro to provide personalized guidance to students through centralized case management.<br>
 
-  [CRM Application to Manage the Services Offered by an Institution](https://drive.google.com/drive/folders/17r5cmgLguIJqWSV2fVnlxQnhPFxazddU)
+  [CRM Application to Manage the Services Offered by an Institution](https://drive.google.com/file/d/1qCtdHUEB9gibW_lX2hQwhYfa5LwtQdln/view)
